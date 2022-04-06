@@ -41,6 +41,18 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "dwdw d",
+      "image": "",
+      "price": "",
+      "id": 8
+    },
+    {
+      "name": "Albo Monstera ",
+      "image": "",
+      "price": "0537",
+      "id": 9
     }
   ]
 }
